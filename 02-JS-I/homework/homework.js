@@ -282,7 +282,7 @@ function esVocal(letra){
       return "Dato incrrecto";
     }
   }
-  
+
 
 
 
