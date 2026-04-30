@@ -152,7 +152,6 @@ function operadoresLogicos(num1, num2, num3) {
     return num3 + 1;
   }
 }operadoresLogicos(2,5,1);
-
 function esPrimo(numero) {
   // Devuelve "true" si "numero" es primo
   // De lo contrario devuelve "falso"
@@ -175,7 +174,6 @@ function esVerdadero(valor){
     return "Soy Falso";
   }
 }esVerdadero(true);
-
 function tablaDelSeis(){
   //Escribe una función que muestre la tabla de multiplicar del 6 (del 0 al 60).
   //La función devuelve un array con los resultados de la tabla de multiplicar del 6 en orden creciente.
@@ -185,7 +183,6 @@ function tablaDelSeis(){
   }
   return resultados;
 }
-
 function tieneTresDigitos(numero){
   //Leer un número entero y retornar true si tiene 3 dígitos. Caso contrario, retorna false.
   //Escribe tu código aquí
